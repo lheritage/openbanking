@@ -1,0 +1,2 @@
+# openbanking
+open banking documentation
