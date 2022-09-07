@@ -1,0 +1,29 @@
+# Description
+
+This API enables you to list all the products and services offered by the bank, including but not limited to personal and business accounts, unsecured loans, commercial credit card products. It even give you the data you need to check eligibility for the different product. Since this data is public, no special consent is required to access it - just OAuth 2.0. Using this API enables an Account Information Service Provider ('AISP') to get information on:
+
+* Accounts Personal/Business
+* Credit Cards Personal/Business
+* Business Financing
+* Invoice Financing Personal/Business
+* Loans Personal/Business
+
+# Key Benefits
+
+* Comprehensive access to a complete list all services offered by a bank.
+* Access to complete product details, including pricing information.
+* The ability to compare offerings to those of other banks based on standards.
+
+# Workflow
+
+The figure below provides a general outline of a product information request and flow using the Products & Services API. Please refer to the documentation for a detailed explanation of the individual steps.
+
+![](https://developer-portal.openbanking.demo.axway.com/templates/medici/images/documentation/apis/products/flow1.png)
+
+# Use Cases
+
+
+| Banking Marketplace| Voice Assistants  | Product Recommentations | 
+|--------|---|---|
+|![Banking Market Place](https://developer-portal.openbanking.demo.axway.com/templates/medici/images/documentation/apis/products/marketplace.jpg)  |  ![VoiceAssistants](https://developer-portal.openbanking.demo.axway.com/templates/medici/images/documentation/apis/products/voice.jpg) |  ![Product Recommendation](https://developer-portal.openbanking.demo.axway.com/templates/medici/images/documentation/apis/products/recommendation.png) |  
+| Brings offerings for many different banks together in one place so they can be openly compared & contrasted.  | Integrate with voice interfaces to enable product browsing, selection and even trigger onboarding using only voice.  |  Add intelligence by comparing this data to other customer data to arrive at the right product to fit their needs. |  
